@@ -1,0 +1,25 @@
+.form {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.formInput {
+  padding: 3px;
+}
+
+.boxdiv {
+  display: flex;
+  /* align-items: center; */
+}
+
+.box {
+  width: 100%;
+  min-height: 10px;
+  max-width: 330px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
